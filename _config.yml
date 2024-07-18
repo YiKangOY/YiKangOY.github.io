@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfile.png"
   name             : "Yikang Ouyang"
   pronouns         : # example: "she/her"  
   bio              : "A 2nd year PhD candidate student at The Hong Kong University of Science and Technology (Guangzhou)"
