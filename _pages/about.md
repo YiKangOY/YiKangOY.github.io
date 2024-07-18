@@ -13,7 +13,8 @@ Currently, I am a second year PhD student at [Microelectronics Thrust](https://w
 
 Awards & Honors
 ======
-MLCAD 2023 Best Paper Award
+MLCAD Best Paper Award        2023
+Full Postgraduate Scholarship, HKUST(GZ)        2022-present
 
 
 
