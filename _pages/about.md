@@ -1,4 +1,11 @@
-About Me
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a 2nd year Ph.D. student at the [Academic Pages template](https://www.hkust-gz.edu.cn/) of The Hong Kong University of Science and Technology (Guangzhou)[Academic Pages template](https://www.hkust-gz.edu.cn/). Advised by [Prof.Yuzhe Ma](https://www.yuzhe-ma.com/).
 
