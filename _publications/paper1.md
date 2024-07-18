@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper1
 date: 2023-07-01
 venue: 'ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul. 2023.'
-authors: Xiaoxiao Liang, Yikang Ouyang, Haoyu Yang, Bei Yu, Yuzhe Ma
+authors: Dongsheng Zuo, Yikang Ouyang, Yuzhe Ma
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10247941)'
 ---
 
