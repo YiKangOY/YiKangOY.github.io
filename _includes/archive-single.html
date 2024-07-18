@@ -62,6 +62,8 @@
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
+    {% elsif post.authors %}
+      <p>Authors: {{ post.authors }}</p>
     {% endif %}
 
   </article>
