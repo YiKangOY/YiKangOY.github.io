@@ -8,7 +8,6 @@
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-  <p>Authors: {{ post.authors }}</p>
 {% else %}
   {% assign title = post.title %}
 {% endif %}
@@ -52,7 +51,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+    <p>Authors: {{ post.authors }}</p>
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
