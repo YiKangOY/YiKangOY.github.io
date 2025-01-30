@@ -14,7 +14,7 @@ Currently, I am a third-year PhD student at [Microelectronics Thrust](https://ww
 
 Awards & Honors
 ======
-**ASP-DAC Best Paper Nomination, 2025**
+**ASP-DAC Best Paper Nomination**, 2025
 
 **MLCAD Best Paper Award**, 2023
 
