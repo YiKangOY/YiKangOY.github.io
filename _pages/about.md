@@ -14,12 +14,13 @@ Currently, I am a fourth-year PhD student at [Microelectronics Thrust](https://w
 
 Awards & Honors
 ======
+**MLCAD Student Travel Grant**, 2026
+
 **ASP-DAC Best Paper Nomination**, 2025
 
 **MLCAD Best Paper Award**, 2023
 
 Full Postgraduate Scholarship, HKUST(GZ), 2022-present
-
 
 
 
