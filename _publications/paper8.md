@@ -5,4 +5,7 @@ permalink: /publication/paper8
 date: 2026-08-27
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO), accepted for publication'
 authors: 'Weihao Wang, <strong>Yikang Ouyang</strong>, Hongyuan Liu, Yuzhe Ma'
+pdfurl: 'https://personal.hkust-gz.edu.cn/yuzhema/papers/TACO2026-GPU-Power.pdf'
+githuburl: 'https://github.com/whwang1996/GTPower'
+paperurl: 'https://dl.acm.org/doi/10.1145/3847118'
 ---

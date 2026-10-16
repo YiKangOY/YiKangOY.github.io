@@ -1,0 +1,6 @@
+{% assign publication = include.publication %}
+{% if publication.pdfurl or publication.githuburl %}
+  <p class="publication-links">
+    {% if publication.pdfurl %}<a href="{{ publication.pdfurl }}">PDF</a>{% endif %}{% if publication.pdfurl and publication.githuburl %} | {% endif %}{% if publication.githuburl %}<a href="{{ publication.githuburl }}">GitHub</a>{% endif %}
+  </p>
+{% endif %}

@@ -6,4 +6,5 @@ date: 2025-02-20
 venue: 'ACM Transactions on Design Automation of Electronic Systems (TODAES)'
 authors: 'Dongsheng Zuo, Jiadong Zhu, <strong>Yikang Ouyang</strong>, Yuzhe Ma'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3711850'
+pdfurl: 'https://personal.hkust-gz.edu.cn/yuzhema/papers/TODAES2025-RL-MUL.pdf'
 ---
