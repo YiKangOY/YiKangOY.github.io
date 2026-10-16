@@ -1,5 +1,5 @@
 ---
-title: "RL-MUL: Multiplier Design Optimization with Deep Reinforcement Learning"
+title: "[C1] RL-MUL: Multiplier Design Optimization with Deep Reinforcement Learning"
 collection: publications
 permalink: /publication/paper1
 date: 2023-07-01

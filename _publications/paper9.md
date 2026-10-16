@@ -1,5 +1,5 @@
 ---
-title: "[J] SMART-GPO 2.0: Gate-Level Enhanced Sensitivity Measurement with Fast and Accurate Estimation for Glitch Power Optimization"
+title: "[J4] SMART-GPO 2.0: Gate-Level Enhanced Sensitivity Measurement with Fast and Accurate Estimation for Glitch Power Optimization"
 collection: publications
 permalink: /publication/paper9
 date: 2026-10-16

@@ -1,5 +1,5 @@
 ---
-title: "RL-OPC: Mask Optimization With Deep Reinforcement Learning"
+title: "[J1] RL-OPC: Mask Optimization With Deep Reinforcement Learning"
 collection: publications
 permalink: /publication/paper3
 date: 2023-08-29

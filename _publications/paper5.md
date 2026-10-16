@@ -1,5 +1,5 @@
 ---
-title: "RL-MUL 2.0: Multiplier Design Optimization with Parallel Deep Reinforcement Learning and Space Reduction"
+title: "[J2] RL-MUL 2.0: Multiplier Design Optimization with Parallel Deep Reinforcement Learning and Space Reduction"
 collection: publications
 permalink: /publication/paper5
 date: 2025-02-20

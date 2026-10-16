@@ -1,5 +1,5 @@
 ---
-title: "Efficient Continuous Logic Optimization with Diffusion Model"
+title: "[C4] Efficient Continuous Logic Optimization with Diffusion Model"
 collection: publications
 permalink: /publication/paper6
 date: 2025-06-22

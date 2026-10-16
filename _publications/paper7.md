@@ -1,5 +1,5 @@
 ---
-title: "Retrieve, Schedule, Reflect: LLM Agents for Chip QoR Optimization"
+title: "[C5] Retrieve, Schedule, Reflect: LLM Agents for Chip QoR Optimization"
 collection: publications
 permalink: /publication/paper7
 date: 2026-03-14

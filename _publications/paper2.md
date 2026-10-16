@@ -1,5 +1,5 @@
 ---
-title: "ASAP: Accurate Synthesis Analysis and Prediction with Multi-task Learning"
+title: "[C2] ASAP: Accurate Synthesis Analysis and Prediction with Multi-task Learning"
 collection: publications
 permalink: /publication/paper2
 date: 2023-09-21
