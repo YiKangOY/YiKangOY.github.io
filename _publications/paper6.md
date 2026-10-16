@@ -7,4 +7,5 @@ venue: 'ACM/IEEE The Chips to Systems Conference (previously known as <strong>De
 authors: '<strong>Yikang Ouyang</strong>*, Xiaofei Yu*, Jiadong Zhu, Tinghuan Chen, Yuzhe Ma'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11133282'
 pdfurl: 'https://personal.hkust-gz.edu.cn/yuzhema/papers/DAC2025-DiffSyn.pdf'
+githuburl: 'https://github.com/YiKangOY/Continuous-Logic-Optimization'
 ---
