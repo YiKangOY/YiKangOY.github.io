@@ -7,4 +7,5 @@ venue: ' IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC) <
 authors: '<strong>Yikang Ouyang</strong>, Yuchao Wu, Dongsheng Zuo, Subhendu Roy, Tinghuan Chen, Zhiyao Xie, and Yuzhe Ma'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3658617.3697746'
 pdfurl: 'https://personal.hkust-gz.edu.cn/yuzhema/papers/ASPDAC2025-GPO.pdf'
+githuburl: 'https://github.com/YiKangOY/SMART-GPO'
 ---
